@@ -16,4 +16,6 @@ The data used in the project are the seven Harry Potter e-books published by Sch
 For copyright reasons the actual e-books are not included in the repository.
 
 ## Notebooks
-* 
+* [Harry Potter and the Preprocessing](./1_harry_potter_preprocessing.ipynb): Import of the books and preprocessing into tokens using `nltk`
+* [Harry Potter and the Descriptive Analysis](./2_harry_potter_descriptive_analysis.ipynb): Various simple descriptive analyses
+* [Harry Potter and the Friends](./1_harry_potter_friends.ipynb): Character extraction from text and 
