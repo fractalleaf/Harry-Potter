@@ -18,4 +18,4 @@ For copyright reasons the actual e-books are not included in the repository.
 ## Notebooks
 * [Harry Potter and the Preprocessing](./1_harry_potter_preprocessing.ipynb): Import of the books and preprocessing into tokens using `nltk`
 * [Harry Potter and the Descriptive Analysis](./2_harry_potter_descriptive_analysis.ipynb): Various simple descriptive analyses
-* [Harry Potter and the Friends](./1_harry_potter_friends.ipynb): Character extraction from text and 
+* [Harry Potter and the Friends](./3_harry_potter_friends.ipynb): Extract characters from text to see who appears most often and where
